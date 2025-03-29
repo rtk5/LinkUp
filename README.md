@@ -32,7 +32,7 @@ LinkUp is a real-time chat application built using **Node.js, Express, and Socke
 ---
 
 ## 🎮 Live Demo  
-🔗 **[Try LinkUp Online](https://linkup-d5hc.onrender.com)** *(Replace with your deployed URL)*  
+🔗 **[Try LinkUp Online](https://linkup-d5hc.onrender.com)**   
 
 ---
 
