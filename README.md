@@ -2,7 +2,14 @@
 
 LinkUp is a real-time chat application built using **Node.js, Express, and Socket.io**. It allows users to join chat rooms and communicate instantly.  
 
-![LinkUp Chat App](https://your-image-url.com) *(Replace with a screenshot of your app)*  
+## 📸 Screenshots  
+### Home Page  
+![Home Page](./photos/1.png)  
+
+### Chat Room  
+![Chat Room](./photos/2.png)  
+
+![Chat Room 2](./photos/3.png)  
 
 ---
 
@@ -20,12 +27,12 @@ LinkUp is a real-time chat application built using **Node.js, Express, and Socke
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express  
 - **Real-time:** Socket.io  
-- **Deployment:** Vercel (Frontend), Render (Backend)  
+- **Deployment:** Render  
 
 ---
 
 ## 🎮 Live Demo  
-🔗 **[Try LinkUp Online](https://your-deployment-link.com)** *(Replace with your deployed URL)*  
+🔗 **[Try LinkUp Online](https://linkup-d5hc.onrender.com)** *(Replace with your deployed URL)*  
 
 ---
 
@@ -33,7 +40,7 @@ LinkUp is a real-time chat application built using **Node.js, Express, and Socke
 
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/LinkUp.git
+git clone https://github.com/rtk5/LinkUp
 cd LinkUp
 ```
 
@@ -44,7 +51,7 @@ npm install
 
 3️⃣ **Run the server**  
 ```sh
-npm start
+npm run dev
 ```
 
 4️⃣ **Open in browser**  
@@ -54,22 +61,11 @@ Go to: `http://localhost:3000`
 
 ## 🌍 Deployment  
 
-### 🔹 **Deploy Backend (Render)**  
+### 🔹 **Deploy Backend & Frontend (Render)**  
 1. Push your code to **GitHub**.  
 2. Go to **[Render](https://render.com/)** → Create **New Web Service**.  
 3. Select your GitHub repo, choose **Node.js**, and deploy.  
-4. Use the given Render URL in the frontend.  
-
-### 🔹 **Deploy Frontend (Vercel)**  
-1. Install Vercel CLI:  
-   ```sh
-   npm install -g vercel
-   ```
-2. Deploy using:  
-   ```sh
-   vercel
-   ```
-3. Get your **Vercel URL** and share it!
+4. Use the given Render URL to access the app.  
 
 ---
 
@@ -89,6 +85,5 @@ This project is licensed under the **MIT License**.
 
 ## 🎯 Author  
 👨‍💻 **Rithvik Matta**  
-🔗 GitHub: [rithvikmatta](https://github.com/your-username)  
-📧 Email: your-email@example.com *(Optional)*  
+🔗 GitHub: [rithvikmatta](https://github.com/rtk585)  
 
